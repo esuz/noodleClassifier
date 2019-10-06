@@ -1,6 +1,6 @@
 # Noodle Classifier 
 
-A noodle classifier with a flask web api. The classifier can distingish between six kind of noodles with an accuracy of about 80 percent. A resnet34 was used as the architecture. Improvement can mostlikely be achieved by using a different network architecture like resnet50 and training with a cleaner dataset.
+A noodle classifier with a flask web api. The classifier can distingish between six kind of noodles with an accuracy of about 80 percent. A resnet34 was used as the architecture. Improvement can most likely be achieved by using a different network architecture like resnet50 and training with a cleaner dataset.
 
 noodle_types = ['penne', 'maccheroni', 'fusilli', 'farfalle', 'spaghetti', 'udon']
 
@@ -12,4 +12,4 @@ The web app can be launched by navigating to the api directory and lauching the 
 
 The images were downloaded from google images with javascript console.
 
-Training dataset is supplied to avoid copyright issues.
+Training dataset is not supplied to avoid copyright issues.
