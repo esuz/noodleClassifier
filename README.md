@@ -7,3 +7,5 @@ The training of the model was done in the jupyter nodebook using fastai librarie
 The web app can be launched by navigating to the api directory and lauching the web with:
 
 > gunicorn -w 1 -b :8000 app:app
+
+The images were downloaded from google images with javascript console.
